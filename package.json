@@ -1,0 +1,25 @@
+{
+  "name": "aria-crawl",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Victor Magalhães <victorhfmag@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-typescript": "^7.1.0",
+    "@types/cheerio": "^0.22.10",
+    "@types/node-fetch": "^2.1.4",
+    "@types/retry": "^0.10.2",
+    "cheerio": "^1.0.0-rc.2",
+    "make-fetch-happen": "^4.0.1",
+    "node-fetch": "^2.3.0",
+    "prettier": "^1.15.3",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1"
+  }
+}
